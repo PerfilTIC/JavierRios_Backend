@@ -1,0 +1,10 @@
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Camisa','prenda de lana','200 g',21);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Pantalon','prenda de lana','550 g',31);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Zapatos','prenda de lana','400 g',91);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Vaso','prenda de lana','20 g',4);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Cortina','prenda de lana','1000 g',10);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Mesa','prenda de lana','24000 g',200);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Celular','prenda de lana','100 g',350);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Equipo','prenda de lana','400 g',146);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Bolso','prenda de lana','1000 g',60);
+INSERT INTO productos (nombre,descripcion,peso,precio) values('Medias','prenda de lana','40 g',11);
